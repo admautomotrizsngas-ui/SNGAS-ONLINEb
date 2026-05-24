@@ -48,7 +48,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <img src="${product.image}" alt="${product.name}">
                 <h3>${product.name}</h3>
                 <div style="text-align: center; margin-top: 10px;">
-                    <a href="https://wa.me/1234567890?text=Hola,%20estoy%20interesado%20en%20el%20producto:%20${encodeURIComponent(product.name)}" target="_blank" style="background-color: #25D366; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;">Consulta</a>
+                    <a href="https://wa.me/51901939637?text=Hola,%20estoy%20interesado%20en%20el%20producto:%20${encodeURIComponent(product.name)}" target="_blank" style="background-color: #25D366; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;">Consulta</a>
                 </div>
             `;
             
